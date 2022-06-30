@@ -40,6 +40,6 @@ About
 ====
 We sincerely recommend you to join our Bistu family and work together for open-source
 
-LINCENCE
+LICENSE
 ====
 MIT
